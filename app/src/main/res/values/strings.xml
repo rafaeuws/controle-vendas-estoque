@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controle de Vendas e Estoque</string>
+    <string name="btn_products">Gerenciar Produtos</string>
+    <string name="btn_sales">Registrar Vendas</string>
+    <string name="add_product">Adicionar Produto</string>
+    <string name="add_sale">Registrar Venda</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="product_quantity">Quantidade</string>
+    <string name="product_price">Preço</string>
+    <string name="sale_total">Total da Venda</string>
+    <string name="error_message">Erro ao carregar os dados. Tente novamente.</string>
+</resources>

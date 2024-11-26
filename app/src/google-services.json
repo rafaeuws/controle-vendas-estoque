@@ -1,0 +1,46 @@
+{
+    "project_info": {
+      "project_number": "123456789012",
+      "project_id": "vendas-estoque-app",
+      "storage_bucket": "vendas-estoque-app.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:123456789012:android:abcdefghijklmno12345",
+          "android_client_info": {
+            "package_name": "com.app.vendasestoque"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "123456789012-abcdefghijklmnopqrstuvwxyz.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.app.vendasestoque",
+              "certificate_hash": "ABCDEF1234567890ABCDEF1234567890ABCDEF12"
+            }
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyB-ExampleApiKey1234567890"
+          }
+        ],
+        "services": {
+          "analytics_service": {
+            "status": "ENABLED"
+          },
+          "appinvite_service": {
+            "status": "ENABLED",
+            "other_platform_oauth_client": []
+          },
+          "ads_service": {
+            "status": "DISABLED"
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  

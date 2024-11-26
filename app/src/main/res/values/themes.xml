@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema Principal do Aplicativo -->
+    <style name="Theme.ControleVendasEstoque" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Cor de fundo padrão -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Cor de destaque para botões e outros elementos -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Cor de fundo geral -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Texto -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/gray</item>
+    </style>
+
+    <!-- Tema Escuro -->
+    <style name="Theme.ControleVendasEstoque.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Cor de fundo padrão -->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Cor de destaque para botões e outros elementos -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Cor de fundo geral -->
+        <item name="android:windowBackground">@color/black</item>
+
+        <!-- Texto -->
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/light_gray</item>
+    </style>
+
+</resources>
