@@ -1,4 +1,4 @@
-# App Vendas & Estoque
+# Trabalho de Extensão - Programação Para Dispositivos Móveis em Android
 
 ## Descrição
 O **App Vendas & Estoque** é um aplicativo desenvolvido para atender pequenos comerciantes da comunidade do Ibura. Ele facilita o gerenciamento de estoque e vendas, oferecendo uma solução digital intuitiva e eficiente.
